@@ -3,7 +3,7 @@ Version:	52718
 Release:	2
 Summary:	BibTeX style for the Journal of Theoretical Biology
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jmb
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jmb
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jmb.r%{version}.tar.xz
 BuildArch:	noarch
